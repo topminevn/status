@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: TopMine Proxy
-    url: topmine.vip
+    url: mc.topmine.vip
     port: 25565
     check: "tcp-ping"
     ipv6: false
