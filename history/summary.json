@@ -4,17 +4,19 @@
     "url": "mc.topmine.vip",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "top-mine-minecraft-network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "35.31%",
+    "uptimeDay": "35.31%",
+    "uptimeWeek": "35.31%",
+    "uptimeMonth": "35.31%",
+    "uptimeYear": "35.31%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
+    "dailyMinutesDown": {
+      "2025-07-17": 438
+    }
   }
 ]
