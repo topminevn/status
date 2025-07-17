@@ -1,22 +1,20 @@
 [
   {
-    "name": "TopMine Proxy",
+    "name": "TopMine Minecraft Network",
     "url": "mc.topmine.vip",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "top-mine-proxy",
+    "slug": "top-mine-minecraft-network",
     "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
-    "dailyMinutesDown": {
-      "2025-07-16": 26
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
