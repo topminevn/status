@@ -28,5 +28,15 @@ assignees:
   - SaitDev
 skipDeleteIssues: false
 
+workflowSchedule:
+  graphs: "0 0 * * 0/2"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 28 * *"
+  summary: "0 0 * * 6"
+  updateTemplate: "0 0 28 * *"
+  updates: "0 3 * * 6"
+  uptime: "0/30 0-16 * * *"
+  # 0/30 0-18 * * *
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
