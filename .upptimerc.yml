@@ -35,7 +35,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 28 * *"
   updates: "0 3 * * 6"
-  uptime: "0/30 0-16 * * *"
+  uptime: "0/30 * * * *"
   # 0/30 0-18 * * *
 
 # Upptime also supports notifications, assigning issues, and more
