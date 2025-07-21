@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TopMineVN
   introTitle: "Status của TopMineVN server"
-  introMessage: Trang này giúp bạn theo dõi trạng thái server Minecraft của TopMineVN cũng như lịch sử trạng thái. Chỉ bao gồm thông tin về main network server, không bao gồm chi tiết từng gamemode Skyblock, Survival,...
+  introMessage: Trang này giúp bạn theo dõi trạng thái server Minecraft của TopMineVN cũng như lịch sử. Chỉ bao gồm thông tin về main network server, không bao gồm chi tiết từng gamemode Skyblock, Survival,...
   navbar:
     - title: Status
       href: /
@@ -32,7 +32,7 @@ workflowSchedule:
   graphs: "0 0 * * 0/2"
   responseTime: "0 23 * * *"
   staticSite: "0 1 28 * *"
-  summary: "0 0 * * 6"
+  summary: "0 0 * * *"
   updateTemplate: "0 0 28 * *"
   updates: "0 3 * * 6"
   uptime: "0/30 0-16 * * *"
