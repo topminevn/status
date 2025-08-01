@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "top-mine-minecraft-network",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 229,
-    "timeDay": 243,
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "97.96%",
+    "time": 230,
+    "timeDay": 245,
     "timeWeek": 228,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-07-17": 438
     }
