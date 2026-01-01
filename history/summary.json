@@ -4,7 +4,7 @@
     "url": "mc.topmine.vip",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "top-mine-minecraft-network",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.08%",
@@ -16,6 +16,7 @@
     "timeMonth": 237,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2026-01-01": 0,
       "2025-12-30": 821,
       "2025-12-29": 438,
       "2025-12-28": 44,
