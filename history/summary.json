@@ -1,5 +1,23 @@
 [
   {
+    "name": "TopMine Website",
+    "url": "https://topmine.io.vn",
+    "icon": "https://icons.duckduckgo.com/ip3/topmine.io.vn.ico",
+    "slug": "top-mine-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 477,
+    "timeDay": 477,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "TopMine Minecraft Network",
     "url": "mc.topmine.io.vn",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -11,8 +29,8 @@
     "uptimeMonth": "91.41%",
     "uptimeYear": "97.79%",
     "time": 233,
-    "timeDay": 206,
-    "timeWeek": 245,
+    "timeDay": 214,
+    "timeWeek": 243,
     "timeMonth": 239,
     "timeYear": 233,
     "dailyMinutesDown": {
