@@ -4,7 +4,7 @@
     "url": "https://topmine.io.vn",
     "icon": "https://icons.duckduckgo.com/ip3/topmine.io.vn.ico",
     "slug": "top-mine-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 338,
     "timeMonth": 354,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "TopMine Minecraft Network",
